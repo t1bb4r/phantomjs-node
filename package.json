@@ -24,10 +24,10 @@
   },
   "dependencies": {
     "dnode": ">=1.2.2",
+    "phantomjs-prebuilt": "^2.1.14",
     "shoe": "~0.0.15",
-    "win-spawn": "~2.0.0",
     "traverse": "~0.6.3",
-    "phantomjs": "~1.9.7-5"
+    "win-spawn": "~2.0.0"
   },
   "devDependencies": {
     "browserify": "10.0.0",
